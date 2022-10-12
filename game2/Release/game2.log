@@ -1,0 +1,10 @@
+﻿  Game.cpp
+D:\Biblioteki\Dokumenty\projects\game2\game2\Game.cpp(89,30): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Player.cpp
+  SwagBall.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 232 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  game2.vcxproj -> D:\Biblioteki\Dokumenty\projects\game2\Release\game2.exe
